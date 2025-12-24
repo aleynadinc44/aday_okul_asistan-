@@ -1,3 +1,6 @@
+Proje geliştirmeleri devam ettiği için tasarım daha eklenmdi . İleriki zamanlarda eklenecektir.
+
+
 <img width="1018" height="622" alt="Ekran görüntüsü 2025-12-24 101231" src="https://github.com/user-attachments/assets/2fc688e2-8caf-469b-8cb0-8c736e74f30e" />
 
 
